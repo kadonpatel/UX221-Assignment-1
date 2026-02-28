@@ -17,12 +17,27 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/is-music-the-secret-to-happiness/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/cognitive-benefits-of-playing-an-instrument/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
             http://localhost:8000/posts/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/uncategorized/
         </loc>
     </url>
     <url>
