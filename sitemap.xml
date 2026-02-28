@@ -7,17 +7,32 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/music-and-mental-health/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/instruments-and-coordination/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/sample-page/
+            http://localhost:8000/posts/
         </loc>
     </url>
     <url>
         <loc>
-            http://localhost:8000/category/uncategorized/
+            http://localhost:8000/category/excercise/
+        </loc>
+    </url>
+    <url>
+        <loc>
+            http://localhost:8000/category/mood/
         </loc>
     </url>
     <url>
